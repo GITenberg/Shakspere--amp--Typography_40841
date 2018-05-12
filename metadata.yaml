@@ -1,0 +1,29 @@
+_repo: Shakspere--amp--Typography_40841
+_version: 0.1.0
+alternative_title: Shakspere and Typography
+covers:
+- cover_type: archival
+  image_path: 40841-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blades, William
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '590'
+    url: http://www.gutenberg.org/2009/agents/590
+    wikipedia: http://en.wikipedia.org/wiki/William_Blades
+description: A mock argument, in imitation of the attempts frequently made to identify
+  Shakespeare with various trades and professions.
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Knowledge -- Book industries and trade'
+title: Shakspere & Typography
+url: http://www.gutenberg.org/ebooks/40841
